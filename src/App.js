@@ -1,9 +1,6 @@
+import AreaOfReactangle from "./Component/AreaOfReactangle";
 function App() {
-  return (
-    <div className="App">
-      <h1>hi this is my app</h1>
-    </div>
-  );
+  return <AreaOfReactangle />;
 }
 
 export default App;
